@@ -1,0 +1,29 @@
+_repo: Linda-Carlton-s-Island-Adventure_45457
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45457-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Lavell, Edith
+    gutenberg_agent_id: '26346'
+    url: http://www.gutenberg.org/2009/agents/26346
+description: ''
+gutenberg_issued: '2014-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45457'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Robinsonades'
+- !lcsh 'Adventure stories'
+- !lcsh 'Mystery and detective stories'
+- !lcc 'PZ'
+- !lcsh 'Cuba -- Description and travel -- Juvenile fiction'
+- !lcsh 'Women air pilots -- Juvenile fiction'
+- !lcsh 'Young women -- Social life and customs -- Juvenile fiction'
+title: Linda Carlton's Island Adventure
+url: http://www.gutenberg.org/ebooks/45457
